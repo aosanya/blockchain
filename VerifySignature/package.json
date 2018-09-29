@@ -1,0 +1,16 @@
+{
+  "name": "bitsigverifier",
+  "version": "1.0.0",
+  "description": "Verify Messages signed by Bitcoin Keys ",
+  "main": "verifySignature.js",
+  "dependencies": {
+    "bitcoinjs-lib": "^4.0.2",
+    "bitcoinjs-message": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
